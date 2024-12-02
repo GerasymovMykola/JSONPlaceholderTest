@@ -6,7 +6,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    
+    //Just for tresting new branch
     @State private var posts: [Post] = []
     
     var body: some View {
